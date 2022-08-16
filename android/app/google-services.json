@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "69371061269",
+    "project_id": "oso-attendance-app",
+    "storage_bucket": "oso-attendance-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69371061269:android:c0d20c806dac4913959a1c",
+        "android_client_info": {
+          "package_name": "com.example.attendace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69371061269-tutfj5qbf19bqu59vhbducm3gvoa98dc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjRz2Ytbn98oKYrl8Q2iGPUbWsukrlXZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69371061269-tutfj5qbf19bqu59vhbducm3gvoa98dc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
